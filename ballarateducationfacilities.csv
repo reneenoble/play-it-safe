@@ -1,0 +1,53 @@
+CouncilID,Name,Location,Service,Lat,Long
+1,Alfredton PS,Cuthberts Rd Alfredton,Government Primary,-37.55496756607,143.801740190071
+2,Sebastopol PS,Warreen St Sebastopol,Government Primary,-37.5964339812167,143.844719041313
+3,Ballarat North PS,Landsborough Rd Ballarat North,Government Primary,-37.5401000808994,143.862810219156
+4,Dana St PS,"Dana St, Ballarat Central",Government Primary,-37.5640130351672,143.853936042702
+5,Black Hill PS,Chisholm St Black Hill,Government Primary,-37.5498446532333,143.86978621512
+6,Caledonian PS,Thompson St  Brown Hill,Government Primary,-37.555241834184,143.894290687438
+7,Canadian Lead PS,Otway St South St Canadian,Government Primary,-37.5728883248763,143.876305554413
+8,Delacombe PS,Warrina Dve Delacombe,Government Primary,-37.5848537341684,143.818275812435
+9,Little Bendigo PS,8 Monte St Nerrina,Government Primary,-37.543057476067,143.895087024414
+10,Macarthur St PS,Macarthur St Soldiers Hill,Government Primary,-37.5512309298257,143.857493732321
+11,Magpie PS,61 Docwra Rd Magpie,Government Primary,-37.6157844457529,143.842967727747
+12,Miners Rest PS,Dundas St  Miners Rest,Government Primary,-37.4779102508787,143.795236887626
+13,Mount Blowhard PS,Millers Rd Blowhard,Government Primary,-37.4292429873868,143.78644398638
+14,Mt Clear PS,Geelong Rd Mt Clear,Government Primary,-37.6043918383731,143.868182171355
+15,Mt Pleasant PS,Cobden St Mt Pleasant,Government Primary,-37.5779430000924,143.858149020575
+16,Pleasant St PS,Pleasant St  North Lake Wendouree,Government Primary,-37.5564273575262,143.838564955421
+17,Warrenheip PS,"Warrenheip Rd, Warrenheip",Government Primary,-37.5740373063372,143.927920560829
+18,Wendouree PS,Howitt St Wendouree,Government Primary,-37.5392115665028,143.828420048655
+19,Yuille Park Community College P-8,Grevillea St Wendouree,Government Primary,-37.5271503228511,143.819829676091
+20,Buninyong PS (Scotsburn Campus),6859 Midland Hwy Scotsburn,Government Primary,-37.6702650576373,143.929502066936
+21,Buninyong PS (Buninyong Campus),Simpson St Buninyong,Government Primary,-37.6541033512246,143.885774462312
+22,Forest St PS,Forest St Wendouree,Government Primary,-37.5232928553386,143.835842342578
+23,Phoenix College Junior Campus,Hertford St Sebastopol,Government Primary,-37.5854924405208,143.835049396435
+24,Ballarat High School,Sturt St West Lake Garden,Government Secondary,-37.5548114921253,143.81843304088
+25,Mt Clear College,Olympic Ave Mount Clear,Government Secondary,-37.607419036735,143.876725640004
+26,Ballarat Secondary College - Barkly St,Barkly St Ballarat East,Government Secondary,-37.5644406043642,143.868788015429
+27,Ballarat Secondary College - East,Russell St Ballarat East,Government Secondary,-37.5585686760675,143.892502167463
+28,Phoenix College - Senior Campus,Hertford St Sebastopol,Government Secondary,-37.5866103519976,143.833504764266
+29,Emmaus Primary School,1503 Geelong Rd Mt Clear,Catholic Primary,-37.6121478257848,143.872239016986
+30,Our Lady Help of Christians PS,Gillies St Wendouree,Catholic Primary,-37.5254360277015,143.82561400552
+31,St James PS,Albert St Sebastopol,Catholic Primary,-37.6034658617744,143.840179826017
+32,St Alipius PS,Victoria St Ballarat East,Catholic Primary,-37.5617031712075,143.874007208197
+33,St Columbas PS,Gregory St Ballarat Nth,Catholic Primary,-37.5459067503238,143.860071895658
+34,St Patricks PS,Drummond St Ballarat Central,Catholic Primary,-37.5643962131951,143.847145749292
+35,Lumen Christi PS,Whitlelaw Ave Delacombe,Catholic Primary,-37.5801860409585,143.817239032521
+36,St Aloysius PS,Ripon St Redan,Catholic Primary,-37.5781079607946,143.837672191984
+37,St Francis Xavier PS,Fortune St Ballarat East,Catholic Primary,-37.5616080257644,143.902992002856
+38,St Thomas More PS,Cuthberts Rd Alfredton,Catholic Primary,-37.5534940371133,143.799950033059
+39,Loreto College,Sturt  St Ballarat,Catholic Secondary,-37.556861766026,143.823469360527
+40,St Pats College,Sturt St Ballarat,Catholic Secondary,-37.5597099232471,143.831558581196
+41,Damascus College,Jones Ave Mt Clear,Catholic Secondary,-37.6114569648549,143.870347731055
+42,Ballarat Grammar School K-12,Forest St Wendouree,Private,-37.5392373718807,143.830830158024
+43,Ballarat Steiner School,244 Moss Ave Mt Helen,Private,-37.6407746599615,143.861713345824
+44,Ballarat and Clarendon College K-12,Sturt St  Wendouree,Private,-37.559646979912,143.833650986181
+45,Ballarat Special School (Norman St),"Norman St, Ballarat North",Specialist,-37.5352206067624,143.855058151169
+46,Invermay PS,Swingers Lane Invermay,Government Primary,-37.5201933247326,143.874542093204
+47,Urquhart PS,Inkerman Rd Newington,Government Primary,-37.5667409285807,143.831629086671
+48,Ballarat Secondary College - Wendouree Campus,Forest  St Wendouree,Government Secondary,-37.5195943387826,143.833332745602
+49,Ballarat Christian College P-12,"Vickers St, Sebastopol",Private,-37.5838638648276,143.84318748295
+50,Ballarat Deaf  Facility,Forest St Primary School Forest St Wendouree,Specialist,-37.5230062266473,143.8359083542
+51,Ballarat Deaf  Facility,Ballarat Secondary College Wendouree Campus,Specialist,-37.5195943387826,143.833332745602
+52,Ballarat Special School (Gillies St),Gillies St Lake Garden,Specialist,-37.5523443629323,143.819030289847

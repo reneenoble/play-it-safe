@@ -1,0 +1,33 @@
+Council_ID,Location,Type,Site,lat,long
+231143,,SC-PTZ Camera,Armstrong Street North,-37.55972967,143.8567729
+231121,,SC-PTZ Camera,Bridge Mall,-37.56267528,143.8654657
+231122,,SC-PTZ Camera,Bridge Mall,-37.56274282,143.8651075
+231124,,SC-PTZ Camera,Camp Street,-37.56111039,143.8592644
+231125,,SC-PTZ Camera,Camp Street,-37.56123377,143.8592001
+231126,,SC-PTZ Camera,Field Street,-37.56025337,143.8589637
+231127,,SC-Fixed Camera,Field Street,-37.56025776,143.8589349
+231123,,SC-PTZ Camera,Grenville Street North,-37.56175727,143.8609404
+231116,,SC-PTZ Camera,Grenville Street South,-37.56249769,143.8604342
+248635, I.T. Equipment at Police Station Control Room,SC-Fixed Camera,Grenville Street South,-37.56249769,143.8604342
+231118,,SC-Fixed Camera,Little Bridge Street,-37.56322424,143.8619567
+231119,,SC-Fixed Camera,Little Bridge Street,-37.56323518,143.8620627
+231120,,SC-Fixed Camera,Little Bridge Street,-37.56326249,143.8620439
+231129,,SC-Fixed Camera,Police Lane,-37.56064691,143.8584115
+231128,,SC-PTZ Camera,Police Lane,-37.56065971,143.8584599
+231133,,SC-PTZ Camera,Lydiard Street North,-37.5608098,143.8577619
+231134,,SC-PTZ Camera,Lydiard Street North,,
+231135,,SC-PTZ Camera,Lydiard Street North,-37.5610776,143.8579549
+231138,,SC-PTZ Camera,Lydiard Street North,-37.56046039,143.8579614
+231139,,SC-PTZ Camera,Lydiard Street North,-37.55985529,143.8580858
+231130,,SC-Fixed Camera,Lydiard Street North,-37.56058315,143.8578376
+231131,,SC-Fixed Camera,Lydiard Street North,-37.56059906,143.8578985
+231132,,SC-Fixed Camera,Lydiard Street North,-37.56071,143.8577488
+231136,,SC-Fixed Camera,Lydiard Street North,-37.56102228,143.8580773
+231137,,SC-Fixed Camera,Lydiard Street North,-37.56071321,143.8579883
+231140,,SC-PTZ Camera,Mair Street,-37.55983208,143.8580433
+231141,,SC-PTZ Camera,Mair Street,-37.55979219,143.8590981
+231142,,SC-PTZ Camera,Mair Street,-37.55971963,143.8568454
+231113,,SC-PTZ Camera,Sturt Street,-37.56203022,143.8589734
+231114,,SC-PTZ Camera,Sturt Street,-37.56204738,143.8589941
+231115,,SC-PTZ Camera,Sturt Street,-37.56235145,143.8598096
+231117,,SC-PTZ Camera,Sturt Street,-37.56210545,143.860509
